@@ -52,7 +52,9 @@ Conclusion
 ## Setup /Installation Requirement
 
 Jupyter Notebook
+
 Python
+
 Github
 
 ## Known Bugs
